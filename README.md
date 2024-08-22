@@ -1,7 +1,5 @@
 ![Header](https://github.com/user-attachments/assets/ac3b844f-01cd-4c0c-aad8-1b4003875d9d)
 
-<h1 align="center">Hi 👋, I'm Sarg</h1>
-<h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working at **Vosyn**
 
