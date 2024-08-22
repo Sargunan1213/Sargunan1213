@@ -1,4 +1,5 @@
-![Header](https://github.com/user-attachments/assets/ac3b844f-01cd-4c0c-aad8-1b4003875d9d)
+![bannergif](https://github.com/user-attachments/assets/c25e335b-c420-4ea3-80f3-0acf19b28ef5)
+
 
 
 - 🔭 I’m currently working at **Vosyn**
