@@ -1,5 +1,5 @@
 
-![banner](https://github.com/user-attachments/assets/257b1e59-a6af-4281-9344-a7701e6c1320)
+![banner](https://github.com/user-attachments/assets/43c7d267-c04c-46aa-8bde-b46509acc4bd)
 
 - 🔭 I’m currently working at **Vosyn**
 
