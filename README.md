@@ -1,7 +1,7 @@
 
-![banner](https://github.com/user-attachments/assets/d57e46bd-f9d7-4a74-b368-e55011491623)
 
-- 🔭 I’m currently working at **Vosyn**
+- 🔭 I’m currently working at **Vosyn**![banner](https://github.com/user-attachments/assets/0f1039fd-d9b3-42ef-ad98-f3752a09ebcc)
+
 
 - 👨‍💻 All of my projects are available at [https://sargunan.netlify.app/](https://sargunan.netlify.app/)
 
