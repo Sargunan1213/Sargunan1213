@@ -1,16 +1,11 @@
 ![banner_3gif](https://github.com/user-attachments/assets/bd9b0358-5406-4111-b104-f2854f24e246)
-[<img src="https://github.com/Sargunan1213/Sargunan1213/blob/main/assests/linkedin.svg" width="50">](https://www.linkedin.com/in/sargu/)
+
 <div align="center">
-  <a href=”https://www.linkedin.com/in/sargu/">
-    
-  </a>
-  <a href=”https://www.behance.net/sargusargu">
-    <img src="https://github.com/Sargunan1213/Sargunan1213/blob/main/assests/behance.svg" width="50"/>
-    &nbsp&nbsp&nbsp
-  </a>
-  <a href="https://www.facebook.com/sargu.sargu/">
-    <img src="https://github.com/Sargunan1213/Sargunan1213/blob/main/assests/facebook.svg" width="50"/>
-  </a>
+  
+[<img src="https://github.com/Sargunan1213/Sargunan1213/blob/main/assests/linkedin.svg" width="50">](https://www.linkedin.com/in/sargu/)
+[<img src="https://github.com/Sargunan1213/Sargunan1213/blob/main/assests/behance.svg" width="50">](https://www.behance.net/sargusargu)
+[<img src="https://github.com/Sargunan1213/Sargunan1213/blob/main/assests/facebook.svg" width="50">](https://www.facebook.com/sargu.sargu/)
+
 </div>
 <br/>
 <h1 align="center">About me!!</h1>
