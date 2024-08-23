@@ -23,24 +23,31 @@
 </div>
   
 - **Frontend:** HTML, CSS, JavaScript, React, Angular
-    <div>
-     <img  src="https://readme-components.vercel.app/api?component=logo&fill=EBDDC3&logo=CSS3&svgfill=2F2323&textfill=B16D56">  
-     <img  src="https://readme-components.vercel.app/api?component=logo&fill=EBDDC3&logo=javascript&svgfill=2F2323&textfill=B16D56">  
-     <img  src="https://readme-components.vercel.app/api?component=logo&fill=EBDDC3&logo=angular&svgfill=2F2323&textfill=B16D56">  
-     <img  src="https://readme-components.vercel.app/api?component=logo&fill=EBDDC3&animation=spin&logo=react&svgfill=2F2323&textfill=B16D56">  
-  </div>
+  
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
       
-- **Backend:** Python, Java
-   <div>
-     <img  src="https://readme-components.vercel.app/api?component=logo&animation=spin&fill=EBDDC3&logo=python&svgfill=2F2323&textfill=B16D56">  
-     <img  src="https://readme-components.vercel.app/api?component=logo&fill=EBDDC3&logo=Java&svgfill=2F2323&textfill=B16D56">  
-  </div>
+- **Backend:** Python, Java, C, C++
+  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  
+
 - **Mobile Development:** Android Studio, React Native
-  <div>
-     <img  src="https://readme-components.vercel.app/api?component=logo&fill=EBDDC3&logo=AndroidStudio&svgfill=2F2323&textfill=B16D56">
-  </div>
+
+  ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  
 - **Automation:** Jasmine, Selenium
 
+	![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 
 
