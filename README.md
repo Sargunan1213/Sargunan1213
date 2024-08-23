@@ -1,7 +1,8 @@
 
 ![bannergif](https://github.com/user-attachments/assets/5fe88043-3dbc-42d7-ac20-78d4f0d2ca43#gh-dark-mode-only)
 
-![banner](https://github.com/user-attachments/assets/a08ade3f-866a-4ca6-a84a-791dfbbaaab5)
+![banner_3gif](https://github.com/user-attachments/assets/bd9b0358-5406-4111-b104-f2854f24e246)
+
 
 - 🔭 I’m currently working at **Vosyn**
 
