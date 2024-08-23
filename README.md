@@ -1,10 +1,10 @@
 
 ![bannergif](https://github.com/user-attachments/assets/5fe88043-3dbc-42d7-ac20-78d4f0d2ca43#gh-dark-mode-only)
 
-![banner](https://github.com/user-attachments/assets/44769015-7e01-4e47-b283-ee963f68eccb)
-
+![banner](https://github.com/user-attachments/assets/a08ade3f-866a-4ca6-a84a-791dfbbaaab5)
 
 - 🔭 I’m currently working at **Vosyn**
+
 
 
 - 👨‍💻 All of my projects are available at [https://sargunan.netlify.app/](https://sargunan.netlify.app/)
