@@ -1,6 +1,3 @@
-
-![bannergif](https://github.com/user-attachments/assets/5fe88043-3dbc-42d7-ac20-78d4f0d2ca43#gh-dark-mode-only)
-
 ![banner_3gif](https://github.com/user-attachments/assets/bd9b0358-5406-4111-b104-f2854f24e246)
 
 
