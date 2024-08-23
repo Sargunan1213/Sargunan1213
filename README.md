@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href=”https://www.linkedin.com/in/sargu/">
-    [<img src="https://github.com/Sargunan1213/Sargunan1213/blob/main/assests/linkedin.svg" width="50"/>](https://www.linkedin.com/in/sargu/)
+    [<img src="https://github.com/Sargunan1213/Sargunan1213/blob/main/assests/linkedin.svg" width="50">](https://www.linkedin.com/in/sargu/)
   </a>
   <a href=”https://www.behance.net/sargusargu">
     <img src="https://github.com/Sargunan1213/Sargunan1213/blob/main/assests/behance.svg" width="50"/>
