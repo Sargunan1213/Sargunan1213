@@ -1,7 +1,10 @@
 ![banner_3gif](https://github.com/user-attachments/assets/bd9b0358-5406-4111-b104-f2854f24e246)
 
 <div align="center">
-  <i class="fab fa-linkedin-in"></i>
+  <br/>
+  <a href=”https://www.linkedin.com/in/sargu/">
+    <img src="https://github.com/Sargunan1213/Sargunan1213/blob/main/assests/linkedin.svg"/>
+  </a>
 </div>
 
 <div align="center">
