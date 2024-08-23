@@ -1,6 +1,7 @@
 
-![bannergif](https://github.com/user-attachments/assets/5fe88043-3dbc-42d7-ac20-78d4f0d2ca43)
+![bannergif Dark](https://github.com/user-attachments/assets/5fe88043-3dbc-42d7-ac20-78d4f0d2ca43)
 
+![banner2 Light](https://github.com/user-attachments/assets/5b9fef84-bb90-4f05-8e5d-c1fed2681fe9)
 
 - 🔭 I’m currently working at **Vosyn**
 
