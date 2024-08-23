@@ -4,6 +4,8 @@
 
 ![banner2](https://github.com/user-attachments/assets/14656c9d-9847-4a03-a119-1f01891ebdc3)
 
+![banner_2gif](https://github.com/user-attachments/assets/d16c1d54-2db7-4ec0-9313-390a5e7d80f8)
+
 - 🔭 I’m currently working at **Vosyn**
 
 
