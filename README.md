@@ -17,6 +17,7 @@
   <p><strong>Bachelor's Degree with Distinction</strong></p>
 </div>
 <br/>
+<br/>
 <div align="center">
   
   🦉 **Skills and Technologies:**
