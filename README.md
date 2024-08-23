@@ -5,6 +5,9 @@
   <a href=”https://www.linkedin.com/in/sargu/">
     <img src="https://github.com/Sargunan1213/Sargunan1213/blob/main/assests/linkedin.svg"/>
   </a>
+  <a href=”https://www.behance.net/sargusargu">
+    <img src="https://github.com/Sargunan1213/Sargunan1213/blob/main/assests/behance.svg" width="50"/>
+  </a>
 </div>
 
 <div align="center">
